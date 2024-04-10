@@ -2,11 +2,11 @@
 
 ## Live Dashboard
 
-Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZDI1ZDAxMjYtNTZjYS00MDgwLWE1M2QtMmIyYjBmMzJlYTIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNDJjZDczZDktZTc1NC00OTZiLThmOGItNGRmZTg0ZThhYTk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## NovyPro Dashboard
 
-Explore the live dashboard [here](https://www.novypro.com/project/atliq-sales-insights--power-bi-1)
+Explore the live dashboard [here](https://www.novypro.com/project/atliq-hospitality-analysis--2)
 
 # Project Overview
 
