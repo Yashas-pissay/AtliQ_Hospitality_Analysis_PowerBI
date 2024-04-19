@@ -1,5 +1,7 @@
 # AtliQ_Hospitality_Analysis_PowerBI
 
+## CodeBasicsResume project Challange 1
+
 ## Live Dashboard
 
 Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNDJjZDczZDktZTc1NC00OTZiLThmOGItNGRmZTg0ZThhYTk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
